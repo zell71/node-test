@@ -1,0 +1,19 @@
+{
+  "name": "nodeMQ",
+  "version": "0.0.0",
+  "description": "nodeMQ",
+  "main": "app.js",
+  "author": {
+    "name": "david.jones",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^3.4.4",
+    "guid": "0.0.12",
+    "jade": "*",
+    "mysql": "^2.2.0",
+    "rabbit.js": "^0.4.1",
+    "sqlite3": "^2.2.3",
+    "stylus": "*"
+  }
+}
